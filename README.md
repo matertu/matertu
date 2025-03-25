@@ -2,7 +2,8 @@
 
 **`Estudante de TI`**
 
-Me chamo Matheus Souza Tertuliano, tenho 19 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC-SP. Além dos estudos na faculdade sempre estou aprendendo novas tecnologias e linguagens, onde por aqui posso compartilha-las.
+Meu nome é Matheus Souza Tertuliano, tenho 19 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC-SP, onde aprofundo meus conhecimentos na área tecnológica. Tenho muita curiosidade por aprender e sempre busco expandir meu repertório conhecendo novas tecnologias e linguagens de programação. Além dos estudos acadêmicos, dedico-me a outros estudos que por aqui compartilho ideias e aprendizados com a intenção de documentar minha trajetória! 🚀
+
 
 <p align="left">
     <a href="https://www.linkedin.com/in/matheus-tertuliano-6703a827b/">
