@@ -9,7 +9,7 @@ Me chamo Matheus Souza Tertuliano, tenho 19 anos e sou natural de São Paulo. At
         <img 
             alt="Linkedin" 
             title="Acesse meu Linkedin" 
-            src="https://custom-icon-badges.demolab.com/badge/box-blue.svg?logo=Linkedin&logoSource=feather"
+            src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=Linkedin"
         />
     </a>
     <a href="https://www.linkedin.com/in/matheus-tertuliano-6703a827b/">
