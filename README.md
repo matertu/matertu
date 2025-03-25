@@ -16,7 +16,7 @@ Me chamo Matheus Souza Tertuliano, tenho 19 anos e sou natural de São Paulo. At
         <img 
             alt="Repositorios" 
             title="Acesse meus repositorios" 
-            src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"
+            src="https://github.com/matertu?tab=repositories"
         />
     </a>
 </p>
@@ -90,16 +90,3 @@ Me chamo Matheus Souza Tertuliano, tenho 19 anos e sou natural de São Paulo. At
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" 
 />
 
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
