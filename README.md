@@ -12,11 +12,11 @@ Me chamo Matheus Souza Tertuliano, tenho 19 anos e sou natural de São Paulo. At
             src="https://custom-icon-badges.demolab.com/badge/-Linkedin-blue?style=for-the-badge&logo=mention&logoColor=white"
         />
     </a>
-    <a href="https://www.linkedin.com/in/matheus-tertuliano-6703a827b/">
+    <a href="https://github.com/matertu?tab=repositories">
         <img 
             alt="Repositorios" 
             title="Acesse meus repositorios" 
-            src="https://github.com/matertu?tab=repositories"
+            src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"
         />
     </a>
 </p>
